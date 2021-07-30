@@ -79,7 +79,7 @@
                     @endauth
                 </div>
             @endif
-
+            <!-- テスト -->
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
